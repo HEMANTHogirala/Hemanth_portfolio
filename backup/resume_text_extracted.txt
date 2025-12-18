@@ -1,0 +1,57 @@
+NAGA SAI HEMANTH OGIRALA
+/ne+91-9177353394 ogiralanagasaihemanth@gmail.com Linked In /gtbGitHub
+EDUCATION
+Velagapudi Ramakrishna Siddhartha Engineering College Vijayawada
+Bachelor of Technology,CGPA: 9.01 Nov 2021 – May 2025
+WORK EXPERIENCE
+Microsoft |Associate Consultant Intern Mar 2024 - Present
+•Designing and implementing an ongoing quality framework to automate data ingestion and processing using
+Synapse, Databricks, and Microsoft Fabric.
+•Developing automation scripts with Synapse CLI for wheel file and notebook uploads, and working on data metric
+calculators to support quality and processing metrics.
+•Undergoing Azure Data Engineering training (AZ-900, DP-900) while gaining hands-on experience in real-time data
+and AI projects across ADF, Databricks, Synapse, Fabric, and Power BI.
+Swift Safe |Cyber Security Analyst Intern Jul 2024-Sep 2024
+•Worked on real-time projects in VAPT and auditing, successfully auditing more than 5 targets.
+•Authored 15+ articles on cybersecurity topics, Contributed to building an open-source security tool, by
+incorporating machine learning for vulnerability detection.
+Safe Software and Integrated Solutions Pvt Ltd |Backend Intern May 2024 – Jul 2024
+•Streamlined backend processes, resulting in a 20% improvement in API response times boosting application
+performance.
+•Collaborated with a team of developers in developing web application and achieving a 30% reduction in issues.
+PROJECTS
+Crop Yield Forecasting Using Remote Sensing Aug 2024 - Dec 2024
+•Developed an advanced crop yield prediction model integrating Sentinel 1& 2 satellite data with environmental
+factors such as soil health, weather patterns, and vegetation indices.
+•Employed Random Forest and XG Boost algorithms to map complex non-linear relationships, achieving 98.7%
+accuracy in yield forecasting.
+Lend Now May 2024 - Aug 2024
+•Engineered a scalable MongoDB database for the app, optimizing data storage and retrieval by 40%.
+•Developed a comprehensive schema managing 10,000+ user profiles, loans, payments. Collaborated with the
+front end team to integrate the UI with back end services, reducing load time by 30%.
+Crop Yield Estimation Using Remote Sensing Jan 2024 - May 2024
+•Gathered historical yield data for the region of interest and developed yield models using 10+ factors.
+•Implemented ML algorithms to estimate crop yields with historical yield values resulting in accuracy of 98.3%.
+Temporal and Spatial analysis of vegetation across 7 years from 2017.
+IoT and Computer Vision based Turmeric Crop Optimization Aug 2023 - Dec 2023
+•Real Time Data Visualization on Thing Speak, implemented robust real-time data visualization for crucial
+parameters like soil moisture, temperature and air humidity on thing speak, increasing accessibility by 50%.
+•Alert Integration for immediate Action, Integrated alert mechanisms within Thing Speak to promptly notify users
+about irregularities in soil conditions. Leveraged Machine Learning Model for disease detection in turmeric leaf
+with an accuracy of 99.2%.
+TECHNICAL SKILLS
+•Languages: Python, Node JS, SQL, NOSQL
+•Cyber Security: Incident Response, Threat analysis, Network Monitoring
+•Developer Tools/Frame work: Open CV, GEE, Thing speak, Arduino, Wireshark, VS code, Service now
+•Operating Systems: Windows,Kali Linux.
+CERTIFICATIONS
+•Cloud Google Cloud Digital leader, Google Cyber Security analyst, Google cloud associate Engineer.
+•Cisco: PCAP trained, CCNA trained , Cyber ops Trained.
+•Service Now: Certified System Adminstrator, Certified Application Developer.
+•NPTEL: Data analytics With Python, Cyber Security and privacy, Management Information System, Privacy in
+social media.
+EXTRA CURRICULAR
+•Published paper on IOT for turmeric crop optimization along with computer vision at IIIT Kottayam.
+•Presented paper titled as estimation of crop yield using GEE at NIT Bhopal.
+•Organized Innovation day as IIC head while guiding many juniors and peers in building IOT projects.
+•Achieved top 2% in MIS NPTEL EXAM.
